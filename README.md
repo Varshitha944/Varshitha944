@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Varshitha 👋
 
-<!--
-**Varshitha944/Varshitha944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 About Me
+I am a passionate Computer Science Engineering student with a strong interest in software development, Python programming, and emerging technologies. I enjoy solving real-world problems through technology and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+- Python
+- C Programming
+- Java (Basics)
+- SQL
+- Git & GitHub
+- Machine Learning (Basics)
+
+📌 Projects
+- Electrical Fault Detection using Machine Learning
+- AI College Chatbot
+- Other academic and personal projects
+
+🌱 Currently Learning
+- Data Structures & Algorithms
+- Full Stack Development
+- Advanced Python Concepts
+
+🎯 Career Goal
+To become a skilled software engineer and contribute to innovative technology solutions.
+
+📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/ganji-varshitha-660310310
+
+✨ "Code, Learn, Improve, Repeat."
